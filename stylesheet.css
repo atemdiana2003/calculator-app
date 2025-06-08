@@ -1,0 +1,75 @@
+.Student>h1{
+   display: flex;
+   background-color: rgb(6, 47, 122);
+   margin: 20px;
+   box-shadow: 5px;
+   padding: 30px;
+   color: white;
+   justify-content: center;
+}
+.dia{
+   display: flex;
+   margin: 20px;
+   box-shadow: 5px 5px 15px rgb(63, 63, 63);
+   gap: 100px;
+   height: 100px;
+}
+h2{
+   margin:10px ;
+   margin-top: 40px;
+
+}
+.course>h3{
+   display: flex;
+   box-shadow: 5px 5px 15px rgb(63, 63, 63);
+   padding: 30px;
+   margin: 20px;
+}
+.form{
+   box-shadow: 5px 5px 15px rgb(63, 63, 63);  
+   margin: 20px;
+}
+form{
+   padding: 10px;
+}
+input{
+   width: 100%;
+}
+select{
+   width: 100%;
+}
+button{
+   background-color: rgb(6, 67, 158);
+   color: white;
+   border-radius: 5px;
+   height: 35px;
+   border-color: none;
+}
+.check{
+   width: 10px;
+}
+.choose{
+   display: flex;
+   justify-content: space-between;
+margin-left: 30px;
+margin-right: 30px;
+}
+.course{
+   box-shadow: 5px 5px 15px rgba(0, 0,0, 0.5);
+   margin: 20px;
+
+}
+table{
+   width: 99%;
+   margin: 10px;
+}
+h4{
+   margin-left: 10px;
+}
+img{
+   border-radius: 50px;
+   width: 80px;
+   height: 80px;
+   box-shadow: 5px 5px 15px rgb(63, 63, 63);
+   margin-top: 10px;
+}
